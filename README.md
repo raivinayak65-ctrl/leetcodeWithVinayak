@@ -16,11 +16,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0148-sort-list](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/0148-sort-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0148-sort-list](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/0148-sort-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Divide and Conquer
