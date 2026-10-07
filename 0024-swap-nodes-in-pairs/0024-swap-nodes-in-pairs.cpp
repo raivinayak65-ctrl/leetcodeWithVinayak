@@ -30,12 +30,6 @@ public:
             prev = first; //connecting to the first to move on the next iteration
 
         }
-        ListNode * curr = dummy;
-        while (curr)
-        {
-            cout<<curr->val<<" ";
-            curr= curr->next;
-        }
         return dummy->next;
     }
 };
