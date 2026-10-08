@@ -65,4 +65,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/0024-swap-nodes-in-pairs) |
+## Array
+|  |
+| ------- |
+| [0896-monotonic-array](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/0896-monotonic-array) |
 <!---LeetCode Topics End-->
