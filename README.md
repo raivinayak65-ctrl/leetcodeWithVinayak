@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/0148-sort-list) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Merge Sort
 |  |
 | ------- |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Backtracking
 |  |
 | ------- |
@@ -73,4 +75,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0896-monotonic-array](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/0896-monotonic-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/2333-minimum-sum-of-squared-difference) |
+## Binary Search
+|  |
+| ------- |
+| [2333-minimum-sum-of-squared-difference](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/2333-minimum-sum-of-squared-difference) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2333-minimum-sum-of-squared-difference](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/2333-minimum-sum-of-squared-difference) |
 <!---LeetCode Topics End-->
