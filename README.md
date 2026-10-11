@@ -89,4 +89,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/2778-sum-of-squares-of-special-elements) |
+## Math
+|  |
+| ------- |
+| [1688-count-of-matches-in-tournament](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/1688-count-of-matches-in-tournament) |
+## Simulation
+|  |
+| ------- |
+| [1688-count-of-matches-in-tournament](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/1688-count-of-matches-in-tournament) |
 <!---LeetCode Topics End-->
