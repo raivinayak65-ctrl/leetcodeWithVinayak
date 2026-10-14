@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0896-monotonic-array](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/0896-monotonic-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Heap (Priority Queue)
 |  |
