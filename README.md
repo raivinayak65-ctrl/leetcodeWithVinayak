@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/0148-sort-list) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Sorting
 |  |
 | ------- |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0896-monotonic-array](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/0896-monotonic-array) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1688-count-of-matches-in-tournament](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/1688-count-of-matches-in-tournament) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Simulation
@@ -133,4 +136,36 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Tree
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Union-Find
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Memoization
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Combinatorics
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Binary Tree
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
