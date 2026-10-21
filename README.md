@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/0070-climbing-stairs) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1688-count-of-matches-in-tournament](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/1688-count-of-matches-in-tournament) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/0070-climbing-stairs) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Tree
 |  |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/0070-climbing-stairs) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Combinatorics
 |  |
