@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/0301-remove-invalid-parentheses) |
+| [1254-number-of-closed-islands](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/1254-number-of-closed-islands) |
 ## Recursion
 |  |
 | ------- |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0896-monotonic-array](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/0896-monotonic-array) |
+| [1254-number-of-closed-islands](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Binary Search Tree
 |  |
@@ -194,4 +197,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/0202-happy-number) |
+## Depth-First Search
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/1254-number-of-closed-islands) |
+## Matrix
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/1254-number-of-closed-islands) |
 <!---LeetCode Topics End-->
