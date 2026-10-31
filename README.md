@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/0112-path-sum) |
 | [0301-remove-invalid-parentheses](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/0301-remove-invalid-parentheses) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/0098-validate-binary-search-tree) |
+| [0100-same-tree](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/0112-path-sum) |
 | [0450-delete-node-in-a-bst](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/0450-delete-node-in-a-bst) |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/0098-validate-binary-search-tree) |
+| [0100-same-tree](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/0112-path-sum) |
 | [0450-delete-node-in-a-bst](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/0450-delete-node-in-a-bst) |
@@ -231,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/0098-validate-binary-search-tree) |
+| [0100-same-tree](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/0112-path-sum) |
 | [1254-number-of-closed-islands](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/1254-number-of-closed-islands) |
