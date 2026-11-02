@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0238-product-of-array-except-self](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/0238-product-of-array-except-self) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0704-binary-search](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/0704-binary-search) |
@@ -264,4 +265,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
