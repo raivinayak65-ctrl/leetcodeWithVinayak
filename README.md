@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/0112-path-sum) |
 | [0450-delete-node-in-a-bst](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/0450-delete-node-in-a-bst) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [2236-root-equals-sum-of-children](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/2236-root-equals-sum-of-children) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Union-Find
 |  |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/0112-path-sum) |
 | [0450-delete-node-in-a-bst](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/0450-delete-node-in-a-bst) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [2236-root-equals-sum-of-children](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/2236-root-equals-sum-of-children) |
 ## Fermat's Little Theorem
 |  |
 | ------- |
