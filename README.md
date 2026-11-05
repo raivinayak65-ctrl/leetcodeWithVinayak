@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/0022-generate-parentheses) |
 | [0301-remove-invalid-parentheses](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/0301-remove-invalid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/0022-generate-parentheses) |
 | [0856-score-of-parentheses](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/1021-remove-outermost-parentheses) |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/0022-generate-parentheses) |
 | [0301-remove-invalid-parentheses](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/0301-remove-invalid-parentheses) |
 ## Breadth-First Search
 |  |
@@ -198,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/0070-climbing-stairs) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
