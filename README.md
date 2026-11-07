@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/0112-path-sum) |
 | [0301-remove-invalid-parentheses](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/0301-remove-invalid-parentheses) |
 | [0404-sum-of-left-leaves](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/0404-sum-of-left-leaves) |
+| [0965-univalued-binary-tree](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/0965-univalued-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Recursion
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/0112-path-sum) |
 | [0404-sum-of-left-leaves](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/0404-sum-of-left-leaves) |
 | [0450-delete-node-in-a-bst](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/0450-delete-node-in-a-bst) |
+| [0965-univalued-binary-tree](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/0965-univalued-binary-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2236-root-equals-sum-of-children](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/2236-root-equals-sum-of-children) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/3841-palindromic-path-queries-in-a-tree) |
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/0112-path-sum) |
 | [0404-sum-of-left-leaves](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/0404-sum-of-left-leaves) |
 | [0450-delete-node-in-a-bst](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/0450-delete-node-in-a-bst) |
+| [0965-univalued-binary-tree](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/0965-univalued-binary-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2236-root-equals-sum-of-children](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/2236-root-equals-sum-of-children) |
 ## Fermat's Little Theorem
@@ -268,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/0112-path-sum) |
 | [0404-sum-of-left-leaves](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/0404-sum-of-left-leaves) |
+| [0965-univalued-binary-tree](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/0965-univalued-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/3841-palindromic-path-queries-in-a-tree) |
