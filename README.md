@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/0148-sort-list) |
+| [0268-missing-number](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/0268-missing-number) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0238-product-of-array-except-self](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/0268-missing-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0704-binary-search](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/0704-binary-search) |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0268-missing-number](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/0704-binary-search) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -163,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/0202-happy-number) |
+| [0268-missing-number](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/0268-missing-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -182,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/0202-happy-number) |
+| [0268-missing-number](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/0268-missing-number) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
@@ -190,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/0268-missing-number) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/3841-palindromic-path-queries-in-a-tree) |
