@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/0148-sort-list) |
 | [0202-happy-number](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/0349-intersection-of-two-arrays) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0238-product-of-array-except-self](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/0349-intersection-of-two-arrays) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0268-missing-number](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/0704-binary-search) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -204,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/0287-find-the-duplicate-number) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/3841-palindromic-path-queries-in-a-tree) |
@@ -289,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/0287-find-the-duplicate-number) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -326,4 +331,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
