@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/0061-rotate-list) |
 | [0148-sort-list](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/0148-sort-list) |
 | [0202-happy-number](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/0202-happy-number) |
+| [0349-intersection-of-two-arrays](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/0349-intersection-of-two-arrays) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Divide and Conquer
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0148-sort-list](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/0148-sort-list) |
 | [0268-missing-number](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/0349-intersection-of-two-arrays) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0238-product-of-array-except-self](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/0349-intersection-of-two-arrays) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0704-binary-search](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/0704-binary-search) |
@@ -146,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0268-missing-number](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/0704-binary-search) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -187,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0202-happy-number](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/0349-intersection-of-two-arrays) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
