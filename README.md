@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/0404-sum-of-left-leaves) |
 | [0965-univalued-binary-tree](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/0965-univalued-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/1254-number-of-closed-islands) |
+| [1971-find-if-path-exists-in-graph](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/1971-find-if-path-exists-in-graph) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Recursion
 |  |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [1971-find-if-path-exists-in-graph](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/1971-find-if-path-exists-in-graph) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Search Tree
 |  |
@@ -306,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/0404-sum-of-left-leaves) |
 | [0965-univalued-binary-tree](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/0965-univalued-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/1254-number-of-closed-islands) |
+| [1971-find-if-path-exists-in-graph](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/1971-find-if-path-exists-in-graph) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Matrix
@@ -318,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/1971-find-if-path-exists-in-graph) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Shortest Path
 |  |
