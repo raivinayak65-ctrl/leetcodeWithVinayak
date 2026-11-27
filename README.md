@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0092-reverse-linked-list-ii](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/0092-reverse-linked-list-ii) |
 | [0142-linked-list-cycle-ii](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/0148-sort-list) |
+| [0203-remove-linked-list-elements](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/0203-remove-linked-list-elements) |
 | [0328-odd-even-linked-list](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/0328-odd-even-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Two Pointers
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/0024-swap-nodes-in-pairs) |
+| [0203-remove-linked-list-elements](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/0203-remove-linked-list-elements) |
 ## Array
 |  |
 | ------- |
