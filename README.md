@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/0112-path-sum) |
+| [0200-number-of-islands](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/0200-number-of-islands) |
 | [0301-remove-invalid-parentheses](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/0301-remove-invalid-parentheses) |
 | [0404-sum-of-left-leaves](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/0404-sum-of-left-leaves) |
 | [0965-univalued-binary-tree](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/0965-univalued-binary-tree) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0200-number-of-islands](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/0287-find-the-duplicate-number) |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/0200-number-of-islands) |
 | [1254-number-of-closed-islands](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1971-find-if-path-exists-in-graph](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/1971-find-if-path-exists-in-graph) |
@@ -305,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/0112-path-sum) |
+| [0200-number-of-islands](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/0200-number-of-islands) |
 | [0404-sum-of-left-leaves](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/0404-sum-of-left-leaves) |
 | [0965-univalued-binary-tree](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/0965-univalued-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/1254-number-of-closed-islands) |
@@ -314,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/0200-number-of-islands) |
 | [1254-number-of-closed-islands](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3665-twisted-mirror-path-count](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/3665-twisted-mirror-path-count) |
