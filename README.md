@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/0061-rotate-list) |
+| [0088-merge-sorted-array](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/0088-merge-sorted-array) |
 | [0142-linked-list-cycle-ii](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/0148-sort-list) |
 | [0202-happy-number](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/0202-happy-number) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/0148-sort-list) |
 | [0268-missing-number](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/0349-intersection-of-two-arrays) |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
