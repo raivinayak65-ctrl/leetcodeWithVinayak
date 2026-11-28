@@ -21,8 +21,7 @@ public:
             count++;
         }
         curr = head;
-        int n = 0;
-        (count % 2 == 0) ? n = (count / 2) + 1 : n = (count/2)+1;
+        int n =(count/2)+1;
         count = 1;
         while(curr)
         {
