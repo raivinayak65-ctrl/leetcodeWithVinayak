@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/0203-remove-linked-list-elements) |
 | [0328-odd-even-linked-list](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/0328-odd-even-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Two Pointers
 |  |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/0349-intersection-of-two-arrays) |
+| [0876-middle-of-the-linked-list](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/0876-middle-of-the-linked-list) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/raivinayak65-ctrl/leetcodeWithVinayak/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Divide and Conquer
